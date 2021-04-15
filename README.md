@@ -1,6 +1,6 @@
 # quizy
 
-A new Flutter application.
+This is a Quiz App having true and false type questions.
 
 ## Getting Started
 
